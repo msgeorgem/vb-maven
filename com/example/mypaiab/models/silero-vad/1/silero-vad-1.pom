@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example.mypaiab.models</groupId>
+  <artifactId>silero-vad</artifactId>
+  <version>1</version>
+  <packaging>aar</packaging>
+  <name>silero-vad</name>
+  <description>Silero VAD ONNX model as an Android asset, so the model is not committed to the app repository.</description>
+  <url>https://github.com/snakers4/silero-vad</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+</project>
